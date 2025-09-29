@@ -6,6 +6,50 @@
 body{
     background-color: #222222;
 }
+header{
+    background-color: #ADD8E7;
+    padding: 10px 0 5px;
+    
+}
+.boxed{
+ max-width: 80%;
+  margin: 0 auto;
+}
+.dashed{
+    border: 2px dashed black;
+}
 .flex-container{
+display: flex;
+}
+.nav-flex{
+background-color: rgb(240, 188, 0);
+}
+.nav-logo{
+width: 25%;
+}
+.nav-link{
+width: 50%;
+text-align: center;
+}
+.nav-login{
+width: 25%;
+text-align: end;
+}
+.nav-logo, 
+.nav-link, 
+.nav-login{
+    padding: 1em;
+}
+#bk-blu{
+    margin-top: 15px;
+    background-color: darkblue;
+    min-height: 350px;
+    padding: 25px 0;
 
+}
+.pink-box{
+    margin: 0 auto;
+   background-color: #EF82ED;
+   width: 70%;
+   min-height: 300px;
 }
