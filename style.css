@@ -100,7 +100,7 @@ footer{
    background-color:#1FB3AA;
     width: 70%;
 }
-flex-items > flex-items{
+.azurre-flex-items > div{
     width: 25%;
     border:  2px dashed white;
 }
